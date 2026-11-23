@@ -1,6 +1,6 @@
 # Security Research: Ecoforest "Ecoforest Home" Stove Platform
 
-> Independent security research — responsibly disclosed via INCIBE-CERT (Spanish National CERT)
+> Security research — responsibly disclosed via INCIBE-CERT (Spanish National CERT)
 
 ## Summary
 
